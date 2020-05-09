@@ -1,3 +1,3 @@
 
-FROM smartaibot/webapp
+FROM smartaibot/website
 ADD . /var/www/html
